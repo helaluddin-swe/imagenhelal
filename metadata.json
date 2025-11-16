@@ -1,0 +1,5 @@
+{
+  "name": "Imagin",
+  "description": "An application that generates images from a text prompt using the Google Imagen 4.0 model.",
+  "requestFramePermissions": []
+}
